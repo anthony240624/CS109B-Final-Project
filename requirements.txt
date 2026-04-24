@@ -1,2 +1,13 @@
 pandas
 numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+scipy
+statsmodels
+pandas-datareader
+yfinance
+requests
+bs4
+plotly
